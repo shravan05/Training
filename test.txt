@@ -2,3 +2,7 @@ this is second test file
 # Testing something
 
 #Something testing 
+
+
+Added Git plugin for Jenkins
+
